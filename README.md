@@ -1,6 +1,8 @@
 # Goruntu-Isleme-Sinif-Yoklamasi
 Projemiz öğrencilerin okul içinde zaman kaybetmesini önlemek amacıyla geliştirilmiştir. Uygulamanın tam anlamıyla kullanılabilmesi için yüz okuma başarısı artırılması gerekir.Bu arttırım sağlanmazsa bilinmeyen kişiler için benzettiği kişileri sisteme kayıt eder.
 
+Not:projemizin pythonla yapılmış reposuda var ama karşılaştığımız bazı sorunlardan dolayı c# diline geçtik.
+
 
 öğrencinin resmini çekip veri tabanına kaydediyoruz 
 
